@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: " **Welcome!** "
 knit: (function(input_file, encoding) { out_dir <- 'docs'; rmarkdown::render(input_file,
   encoding=encoding, output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
@@ -8,7 +8,7 @@ knit: (function(input_file, encoding) { out_dir <- 'docs'; rmarkdown::render(inp
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
- Born in San Diego, California, I'm a rising senior graduating with a BS in Statistics with a concentration in Statistical Computing & a minor in Public Policy @ UC Riverside in Spring 2022. 
+ Born in San Diego, California, I'm a rising senior graduating with a **BS in Statistics** with a concentration in Statistical Computing & a minor in **Public Policy** @ UC Riverside in Spring 2022. 
 
 I'm interested in using Data Science & analytical tools such as GIS technology & visualization tools to offer insights on social issues and influence [policy] change. Topics of interest include transportation, political participation, & food security. I have some of my [projects on display here](Projects.html). 
 
@@ -21,10 +21,13 @@ Currently seeking opportunities, especially those that involve both data analysi
 
 * * *
 
-##### On a less serious note, other things I like include:
-*   [live music](https://open.spotify.com/user/1240558406?si=d168e015bbf144bd)
+##### On a lighter note, I'm glad to connect with anyone whether it be about a project, opportunity, feedback, or to strike conversation! You can easily get in touch with me via <a href="mailto:victoriatcnguyen@gmail.com">e-mail</a> or by connecting on [LinkedIn](https://www.linkedin.com/in/victoriatcnguyen/) :-)
+
+##### If you're looking for a conversation starter, here are some of my other "likes":
+
+*   music, especially of the [disco](https://open.spotify.com/playlist/6TXNdlLcJXV0WCCmaJSzF7?si=24f79cc845884bbe) & [garage/beach](https://open.spotify.com/playlist/58v8GgsX6ec6Sj5fJ4oKUI?si=4e3bc7a8bcdb4d1d) flavor (but I like everything!)
 *   swimming & weight training
-*   video games 
+*   video games (Tetris is my weakness)
 *   painting
 *   mechanical keyboards
 *   [watching movies](https://letterboxd.com/vnguyen/)
@@ -32,8 +35,6 @@ Currently seeking opportunities, especially those that involve both data analysi
 *   any drink blended with ice
 
 
-* * *
 
-I'm glad to connect with anyone whether it be for a project, opportunity, feedback, or to strike conversation! You can easily get in touch with me via <a href="mailto:victoriatcnguyen@gmail.com">e-mail</a> or by connecting on [LinkedIn](https://www.linkedin.com/in/victoriatcnguyen/) :-)
 
 * * *
