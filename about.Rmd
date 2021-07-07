@@ -4,4 +4,4 @@ knit: (function(input_file, encoding) { out_dir <- 'docs'; rmarkdown::render(inp
   encoding=encoding, output_file=file.path(dirname(input_file), out_dir, 'about.html'))})
 ---
 
-More about this website.
+Links will be added below
