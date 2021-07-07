@@ -1,10 +1,6 @@
 ---
-title: ""
-author: "Victoria Nguyen"
-date: "7/7/2021"
-output: html_document
+knit: (function(input_file, encoding) { out_dir <- 'docs'; rmarkdown::render(input_file,
+  encoding=encoding, output_file=file.path(dirname(input_file), out_dir, 'Shelled.html'))})
 ---
-
-![Tank and Stomper](/Users/victoria/Documents/GitHub/rmd_site/images/Untitled_Artwork.jpg)
 
 <img src="/Users/victoria/Documents/GitHub/rmd_site/images/Untitled_Artwork.jpg">
