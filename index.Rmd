@@ -4,7 +4,11 @@ knit: (function(input_file, encoding) { out_dir <- 'docs'; rmarkdown::render(inp
   encoding=encoding, output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
 
-Born in San Diego, California, I'm a rising senior graduating with a BS in Statistics with a concentration in Statistical Computing & a minor in Public Policy @ UC Riverside in Spring 2022. 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+ Born in San Diego, California, I'm a rising senior graduating with a BS in Statistics with a concentration in Statistical Computing & a minor in Public Policy @ UC Riverside in Spring 2022. 
 
 I'm interested in using Data Science & analytical tools such as GIS technology & visualization tools to offer insights on social issues and influence [policy] change. Topics of interest include transportation, political participation, & food security. 
 

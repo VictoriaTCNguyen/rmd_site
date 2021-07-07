@@ -1,0 +1,25 @@
+---
+title: "My Projects"
+knit: (function(input_file, encoding) { out_dir <- 'docs'; rmarkdown::render(input_file,
+  encoding=encoding, output_file=file.path(dirname(input_file), out_dir, 'Projects.html'))})
+---
+
+
+>On this page I will be showcasing some of my past projects, some of which I would like to revisit at a later date with refined skills &/or create blog posts explaining my process. 
+
+
+## Geographic Information Systems
+
+### Fast Food Restaurants, Grocery Stores, and Average Household Income in San Diego County
+
+<center>
+<img src="/Users/victoria/Documents/GitHub/rmd_site/images/GIS1042.jpg">
+</center>
+
+### Voter Turnout versus Political Affiliation in San Diego County
+
+<center>
+<img src="/Users/victoria/Documents/GitHub/rmd_site/images/GIS110Final_.pdf">
+</center>
+
+###

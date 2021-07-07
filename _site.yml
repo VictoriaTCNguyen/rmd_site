@@ -4,8 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Projects"
+      href: Projects.html
 output:
   html_document:
     theme: cosmo
