@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Victoria Nguyen"
   left:
     - text: "Home"
       href: index.html
@@ -10,7 +10,7 @@ output:
   html_document:
     theme: cosmo
     highlight: textmate
+    font: Courier New
     include:
       after_body: footer.html
     css: styles.css
-    
