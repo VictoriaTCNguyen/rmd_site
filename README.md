@@ -1,4 +1,5 @@
 
 ---
-permalink: /index.rmd
+permalink: /rmd_site/index.rmd
 ---
+
