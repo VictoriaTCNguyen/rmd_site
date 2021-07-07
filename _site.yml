@@ -3,9 +3,9 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
-      href: index.rmd
+      href: index.html
     - text: "About"
-      href: about.rmd
+      href: about.html
 output:
   html_document:
     theme: cosmo
