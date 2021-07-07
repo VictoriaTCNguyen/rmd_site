@@ -1,25 +1,30 @@
 ---
-title: "My Projects"
+title: " **My Projects** "
 knit: (function(input_file, encoding) { out_dir <- 'docs'; rmarkdown::render(input_file,
   encoding=encoding, output_file=file.path(dirname(input_file), out_dir, 'Projects.html'))})
 ---
 
 
->On this page I will be showcasing some of my past projects, some of which I would like to revisit at a later date with refined skills &/or create blog posts explaining my process. 
+> This is the page where I will showcasing a few of my projects. As I'm constantly striving to improve, I'll be commenting on areas where I could have brushed up on them & what I'm going to do differently as I plan on revisiting them!
 
 
-## Geographic Information Systems
+## **Geographic Information Systems**
 
-### Fast Food Restaurants, Grocery Stores, and Average Household Income in San Diego County
-
-<center>
-<img src="/Users/victoria/Documents/GitHub/rmd_site/images/GIS1042.jpg">
-</center>
-
-### Voter Turnout versus Political Affiliation in San Diego County
+#### **Fast Food Restaurants, Grocery Stores, and Average Household Income in San Diego County**
 
 <center>
-<img src="/Users/victoria/Documents/GitHub/rmd_site/images/GIS110Final_-1.jpg">
+<img src="/Users/victoria/Documents/GitHub/rmd_site/images/GIS1042.jpg" alt="created using QGIS">
 </center>
 
+In this project I used local data in order to map different kinds of food availability in neighbourhoods of different socioeconomic status. While the results weren't too far fetched nor shocking, I'm satisfied with the product overall. I would like to revisit this topic later with some kind of metric for the "healthiness" of different fast food restaurants (perhaps when I have better data science skills) or only looking at neighbourhoods below the mean/median average income to analyze their access to food. A glaring flaw is that I couldn't get the graphs to cooperate with me in QGIS, so the charts were made in Excel - something I need to have figured out upon diving into this again. 
+
+#### **Voter Turnout versus Political Affiliation in San Diego County**
+
+<center>
+<img src="/Users/victoria/Documents/GitHub/rmd_site/images/GIS110Final_-1.jpg" alt="created using ArcGIS Pro">
+</center>
+
+Unfortunately, this one didn't come out how I had wished due to the delay in census data for 2020. Once it's possible, I would like to revisit this project with properly updated precinct lines & much more data: including different election years, looking at average age, income, etc. I would also like to make it an interactive web app as there's too much data to keep away from people!
+
+***
 ###
