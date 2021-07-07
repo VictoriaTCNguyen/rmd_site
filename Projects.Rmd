@@ -19,7 +19,7 @@ knit: (function(input_file, encoding) { out_dir <- 'docs'; rmarkdown::render(inp
 ### Voter Turnout versus Political Affiliation in San Diego County
 
 <center>
-<img src="/Users/victoria/Documents/GitHub/rmd_site/images/GIS110Final_.pdf">
+<img src="/Users/victoria/Documents/GitHub/rmd_site/images/GIS110Final_-1.jpg">
 </center>
 
 ###

@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
  Born in San Diego, California, I'm a rising senior graduating with a BS in Statistics with a concentration in Statistical Computing & a minor in Public Policy @ UC Riverside in Spring 2022. 
 
-I'm interested in using Data Science & analytical tools such as GIS technology & visualization tools to offer insights on social issues and influence [policy] change. Topics of interest include transportation, political participation, & food security. 
+I'm interested in using Data Science & analytical tools such as GIS technology & visualization tools to offer insights on social issues and influence [policy] change. Topics of interest include transportation, political participation, & food security. I have some of my [projects on display here](Projects.html). 
 
 I cherish open-mindedness, skepticism, tolerance, humanity, & truth above all. As an advocate for an informed public, I believe in the accessibility of information & data in both the sense of open-access & in that I value readability. 
 
@@ -29,11 +29,11 @@ Currently seeking opportunities, especially those that involve both data analysi
 *   mechanical keyboards
 *   [watching movies](https://letterboxd.com/vnguyen/)
 *   my [furry](Furry.html), [shelled](Shelled.html), & [molting](Molting.html) friends
-*   **any** drink blended with ice
+*   any drink blended with ice
 
 
 * * *
 
-I'm glad to connect with anyone whether it be for a project, opportunity, or to strike conversation! You can easily get in touch with me via <a href="mailto:victoriatcnguyen@gmail.com">e-mail</a> or by connecting on [LinkedIn](https://www.linkedin.com/in/victoriatcnguyen/) :-)
+I'm glad to connect with anyone whether it be for a project, opportunity, feedback, or to strike conversation! You can easily get in touch with me via <a href="mailto:victoriatcnguyen@gmail.com">e-mail</a> or by connecting on [LinkedIn](https://www.linkedin.com/in/victoriatcnguyen/) :-)
 
 * * *
