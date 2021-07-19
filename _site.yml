@@ -4,6 +4,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Education"
+      href: Education.html
+    - text: "Statistical Interests"
+      href: Stats.html
     - text: "Projects"
       href: Projects.html
 output:

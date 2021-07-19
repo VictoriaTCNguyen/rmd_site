@@ -1,0 +1,6 @@
+---
+title: "Statistical Interests"
+output: html_document
+---
+
+I'm interested in data science, visualization, machine learning, social policy evaluation, spatial statistics, and spatial demography. 
