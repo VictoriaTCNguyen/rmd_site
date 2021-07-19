@@ -1,0 +1,22 @@
+---
+title: "Education"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### **University of California, Riverside**, Bachelor of Science (2020-2022)
+##### Major: Statistics (Statistical Computing), Minor: Public Policy
+**Relevant Coursework:** Introduction to Statistics, Elements of Probability & Statistical Theory, Optimization, Introduction to Data Structures & Algorithms, Introduction to Statistical Computing, Introduction to Public Policy Analysis, Politics & Economic Policy, Economic Development: Theory & Policy
+
+#### **San Diego Miramar College**, Associate of Science (2016-Present)
+##### Major: Computer and Information Systems, Geographical Information Systems, Economics
+**Relevant Coursework:** C/C++ Programming, Discrete Mathematics, Java Programming, Calculus with Analytic Geometry, Python Programming, Introduction to GIS, Introduction to Mapping/Geographic Information Systems, Introduction to Microeconomics, Introduction to Macroeconomics
+
+#### **University of California, San Diego**, Non-degree
+**Relevant Coursework:** Linear Algebra, Calculus for Science & Engineering
+
+***
+###

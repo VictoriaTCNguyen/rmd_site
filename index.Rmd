@@ -8,15 +8,11 @@ knit: (function(input_file, encoding) { out_dir <- 'docs'; rmarkdown::render(inp
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
- Born in San Diego, California, I'm a rising senior graduating with a **BS in Statistics** with a concentration in Statistical Computing & a minor in **Public Policy** @ UC Riverside in Spring 2022. 
+ Born in San Diego, California, I'm a rising senior graduating with a **BS in Statistics** & minor in **Public Policy** @ UC Riverside in Spring 2022. 
 
-I'm interested in using Data Science & analytical tools such as GIS technology & visualization tools to offer insights on social issues and influence [policy] change. Topics of interest include transportation, political participation, & food security. I have some of my [projects on display here](Projects.html). 
+I'm interested in using data science & analytic tools such as GIS technology & visualization tools to offer insights on social issues and influence [policy] change. Topics of interest include transportation, political participation, & food security. I have some of my [projects on display here](Projects.html). 
 
 I cherish open-mindedness, skepticism, tolerance, humanity, & truth above all. As an advocate for an informed public, I believe in the accessibility of information & data in both the sense of open-access & in that I value readability. 
-
-Currently seeking opportunities, especially those that involve both data analysis & GIS technology, even more so if they involve social issues or the gaming industry. 
-
-
 
 
 * * *
@@ -27,7 +23,7 @@ Currently seeking opportunities, especially those that involve both data analysi
 
 *   music, especially of the [disco](https://open.spotify.com/playlist/6TXNdlLcJXV0WCCmaJSzF7?si=24f79cc845884bbe) & [garage/beach](https://open.spotify.com/playlist/58v8GgsX6ec6Sj5fJ4oKUI?si=4e3bc7a8bcdb4d1d) flavor (but I like everything!)
 *   swimming & weight training
-*   video games (Tetris is my weakness)
+*   video games
 *   painting
 *   mechanical keyboards
 *   [watching movies](https://letterboxd.com/vnguyen/)
