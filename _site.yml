@@ -5,9 +5,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Education"
-      href: Education.html
+      href: _site/Education.html
     - text: "Statistical Interests"
-      href: Stats.html
+      href: _site/Stats.html
     - text: "Projects"
       href: Projects.html
 output:
